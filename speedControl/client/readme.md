@@ -1,7 +1,4 @@
 
-![py36][py36]
-![py35][py35] 
-
 # How to Run
 ```python
 pip3 install -r req.txt
