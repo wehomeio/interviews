@@ -1,7 +1,17 @@
-# 编程题
 
-就两个函数
-# get()
-获取现有速度和油门值
-# set(1)
-# 设置油门值
+![py36][py36]
+
+# How to Run
+```python
+pip3 install -r req.txt
+python3 client.py
+```
+# Programming Questions
+Just two functions
+# get ()
+Get existing speed and throttle values
+# set (1) 
+# Set Throttle value
+# FAQ
+Q:Why not meet the requirements of the topic?
+A:Because I won't.😭

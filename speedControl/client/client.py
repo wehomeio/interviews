@@ -1,5 +1,6 @@
 import requests
 
+
 def getHTMLText(url):
     try:
         data = requests.get(url, timeout = 30)
@@ -20,6 +21,8 @@ def get():
     url = "http://127.0.0.1:5000/get"
     data = getHTMLText(url)
     print(data)
-
-# set(3)
-get()
+	
+	
+if __name__ == '__main__':
+	# set(3)
+	get()
